@@ -1,0 +1,11 @@
+{
+  "name": "fatcat-battle-simulator",
+  "version": "1.0.0",
+  "description": "fatcat react developer position test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikola Pejcinovic",
+  "license": "ISC"
+}
