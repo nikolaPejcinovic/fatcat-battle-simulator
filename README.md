@@ -6,6 +6,6 @@ Instructions:
 
   1. Open terminal from root folder of this project.
 
-  2. Enter "node index [criticalMultiplier]" - for example, if you want to config a critical damage multiplier to be 3, enter "node index 3" in terminal, and it should run the game, console.log-ing battle score output.
+  2. In terminal, enter "node index [criticalMultiplier]" - for example, if you want to config a critical damage multiplier to be 3, enter "node index 3" in terminal, and it should run the game, console.log-ing battle score output.
 
   3. Enjoy.
