@@ -1,6 +1,8 @@
 # fatcat-battle-simulator
 
-To run a battle simulator:
+Prerequisites for running a battle simulator: Installed nodejs on your machine.
+
+Instructions:
 
   1. Open terminal.
 
